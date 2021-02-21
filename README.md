@@ -1,4 +1,4 @@
-# CaristoFeatures
+# BehaveFeatures
 Task1 behave with pom Feature1 and Feature2
 
 Does execuite using behave, although I got stuck when I applied the send Feature.
